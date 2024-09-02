@@ -1,0 +1,15 @@
+﻿  Game.cpp
+C:\SFML Projects\Sand Simulator\Sand Simulator\Game.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\SFML Projects\Sand Simulator\Sand Simulator\Game.cpp(326,90): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\SFML Projects\Sand Simulator\Sand Simulator\Game.cpp(326,90): warning C4244:         with
+C:\SFML Projects\Sand Simulator\Sand Simulator\Game.cpp(326,90): warning C4244:         [
+C:\SFML Projects\Sand Simulator\Sand Simulator\Game.cpp(326,90): warning C4244:             T=float
+C:\SFML Projects\Sand Simulator\Sand Simulator\Game.cpp(326,90): warning C4244:         ]
+C:\SFML Projects\Sand Simulator\Sand Simulator\Game.cpp(326,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\SFML Projects\Sand Simulator\Sand Simulator\Game.cpp(326,53): warning C4244:         with
+C:\SFML Projects\Sand Simulator\Sand Simulator\Game.cpp(326,53): warning C4244:         [
+C:\SFML Projects\Sand Simulator\Sand Simulator\Game.cpp(326,53): warning C4244:             T=float
+C:\SFML Projects\Sand Simulator\Sand Simulator\Game.cpp(326,53): warning C4244:         ]
+C:\SFML Projects\Sand Simulator\Sand Simulator\Game.cpp(368,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\SFML Projects\Sand Simulator\Sand Simulator\Game.cpp(369,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Sand Simulator.vcxproj -> C:\SFML Projects\Sand Simulator\x64\Debug\Sand Simulator.exe
